@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of resolution](./screenshot.jpg)
+![Screenshot of resolution](./.github/screenshot.jpg)
 
 ### Links
 
