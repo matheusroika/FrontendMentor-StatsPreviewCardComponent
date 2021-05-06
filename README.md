@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of resolution](.github/screenshot.jpg)
+<img alt="Screenshot of resolution" src=".github/screenshot.png" width="100%">
 
 ### Links
 
