@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/simple-solution-using-html5-and-css-7P8KGm-xh)
 - [Live Site URL](https://matheusroika.github.io/FrontendMentor-StatsPreviewCardComponent/)
 
 ## Author
