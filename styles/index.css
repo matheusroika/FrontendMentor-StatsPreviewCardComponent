@@ -72,7 +72,7 @@ body {
   padding: 5rem 7.5rem 4.375rem 4.375rem;
 }
 
-.card h1 {
+.card h2 {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
   font-size: 2.1rem;
@@ -80,7 +80,7 @@ body {
   margin-bottom: 2.5rem;
 }
 
-.card h1 span {
+.card h2 span {
   color: var(--highlight)
 }
 
@@ -210,7 +210,7 @@ body {
     padding: 2rem 2rem;
   }
   
-  .card h1 {
+  .card h2 {
     margin-bottom: 1.875rem;
   }
 
