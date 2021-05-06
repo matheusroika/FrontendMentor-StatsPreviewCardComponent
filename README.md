@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of resolution](./.github/screenshot.jpg)
+![Screenshot of resolution](.github/screenshot.jpg)
 
 ### Links
 
 - [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://matheusroika.github.io/FrontendMentor-StatsPreviewCardComponent/)
 
 ## Author
 
