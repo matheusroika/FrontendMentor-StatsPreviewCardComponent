@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of resolution](./.github/screenshot.jpg)
+<img alt="Screenshot of resolution" src=".github/screenshot.png" width="100%">
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/simple-solution-using-html5-and-css-7P8KGm-xh)
+- [Live Site URL](https://matheusroika.github.io/FrontendMentor-StatsPreviewCardComponent/)
 
 ## Author
 
